@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/iheb-bettaieb-a9590b350/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://kaggle.com/iheb-bettaib" target="_blank">
+  <a href="[https://kaggle.com/iheb-bettaib](https://www.kaggle.com/ihebbettaib)" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
