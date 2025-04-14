@@ -92,7 +92,7 @@ I'm passionate about leveraging AI and Machine Learning to solve real-world prob
 
 🥇 2nd place At the UAE Youth Bootcamp
 🎓 ICT engineering student at supcom
-🌟 IEEE SUPCOM SB'CHAIR
+🌟 IEEE SUPCOM SB'S CHAIR
 
 
 <div align="center">
