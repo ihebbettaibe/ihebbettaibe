@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9DF7&center=true&vCenter=true&random=false&width=500&lines=AI+Enthusiast;Machine+Learning+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 <p align="center">
-  <a href="https://linkedin.com/in/iheb-bettaib" target="_blank">
+  <a href="https://www.linkedin.com/in/iheb-bettaieb-a9590b350/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://kaggle.com/iheb-bettaib" target="_blank">
