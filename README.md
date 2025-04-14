@@ -90,9 +90,9 @@ I'm passionate about leveraging AI and Machine Learning to solve real-world prob
 
 🏆 Achievements
 
-🥇 [Your notable achievement or competition win]
-🎓 [Your education or certification]
-🌟 [Any other achievement you'd like to highlight]
+🥇 2nd place At the UAE Youth Bootcamp
+🎓 ICT engineering student at supcom
+🌟 IEEE SUPCOM SB'CHAIR
 
 
 <div align="center">
