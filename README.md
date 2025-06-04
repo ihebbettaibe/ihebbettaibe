@@ -1,26 +1,28 @@
-<div align="center">👨‍💻 Hello World, I'm Iheb! 👋</div>
+<div align="center">👨‍💻 Hello World, I'm Moatez! 👋</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9DF7&center=true&vCenter=true&random=false&width=500&lines=AI+Enthusiast;Machine+Learning+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/iheb-bettaieb-a9590b350/" target="_blank">
+  <a href="https://www.linkedin.com/in/moatez-tilouch-a58a96284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<a href="https://www.kaggle.com/ihebbettaib" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
+
 </p>
 
 🚀 About Me
-I'm passionate about leveraging AI and Machine Learning to solve real-world problems. Currently diving deep into building intelligent systems that can understand, learn, and adapt to human needs.
+🔭 I'm currently working as a Full Stack Developer in both mobile and web applications, building innovative and responsive user experiences.
 
-🔭 I'm currently working on Walk Pattern Detection and Layout Optimization, applying AI to analyze and optimize spatial layouts based on human movement patterns
-🌱 I'm expanding my knowledge in Machine Learning, Deep Learning, and AI technologies
-👯 I'm open to collaborate on AI/ML projects, open-source contributions, and innovative tech solutions
-🧠 Active areas of interest: Computer Vision, Natural Language Processing, and Reinforcement Learning
-💬 Ask me about Python, Machine Learning, Data Science, or anything tech-related!
-📫 Reach me at: iheb.bentaieb@supcom.tn
-⚡ Fun fact: I love solving puzzles and playing chess in my free time!
+🌱 I'm continuously expanding my expertise in modern web and mobile technologies, particularly in Flutter, Angular, and Node.js.
+
+👯 I'm open to collaborating on full stack projects, contributing to open-source initiatives, and developing impactful software solutions.
+
+🧠 Active areas of interest: Front-end frameworks, Back-end APIs, UI/UX design, and cross-platform development.
+
+💬 Ask me about JavaScript, Flutter, Angular, Node.js, or any web/mobile development challenges!
+
+📫 Reach me at: moateztilouch@gmail.com
+
+⚡ Fun fact: I enjoy exploring new frameworks and experimenting with creative UI designs in my spare time!
 
 
 🛠️ Tech Stack
@@ -81,22 +83,22 @@ I'm passionate about leveraging AI and Machine Learning to solve real-world prob
 
 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihebbettaibe&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebbettaibe&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moateztilouche&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moateztilouche&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihebbettaibe&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moateztilouche&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 🏆 Achievements
 
-🥇 2nd place At the UAE Youth Bootcamp
-🎓 ICT engineering student at supcom
-🌟 IEEE SUPCOM SB'S CHAIR
+🥇 2nd place At the IT Impact Bootcamp
+🎓 Softwaee engineering student at ISIMM
+🌟 Media Manager of CLUB ARSII ISIMM
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihebbettaibe&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MoatezTilouche&style=flat-square&color=blue" alt="Profile views" />
 </div>
 <div align="center">
   <i>⚡ Keep learning, keep coding! ⚡</i>
