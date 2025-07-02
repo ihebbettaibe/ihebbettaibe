@@ -89,10 +89,15 @@ I'm passionate about leveraging AI and Machine Learning to solve real-world prob
 </div>
 
 🏆 Achievements
-
-🥇 2nd place At the UAE Youth Bootcamp
-🎓 ICT engineering student at supcom
 🌟 IEEE SUPCOM SB'S CHAIR
+
+
+🥇 1st Place – Challenge Projets d’Entreprendre - SupCom
+🥇1st Place – GDG SUP’COM x Carthage AI ANATOMY
+🥇 2nd place At the UAE Youth Bootcamp
+🥇3rd Place – TN2056 Challenge at IEEE TSYP Congress 12th for Sensory Scape project
+🥇3rd Place – MAE MutualHack Hackathon
+🥇3rd Place – GothamHack Hackathon
 
 
 <div align="center">
